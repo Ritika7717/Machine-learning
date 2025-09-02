@@ -1,15 +1,10 @@
 # Machine-learning
-Beginner-friendly Machine Learning project on Linear Regression, applied to predicting admission chances using student profile data
+This repository contains implementations of various Machine Learning algorithms from scratch and using libraries like Scikit-learn.
+The goal is to provide a beginner-friendly reference for understanding, practicing, and experimenting with ML techniques.
+**📖 Algorithms Covered**
 
-**Dataset**
-The dataset used is Admission Chance.csv, which contains:
-GRE Score
-TOEFL Score
-University Rating
-SOP & LOR Strength
-CGPA
-Research Experience
-Chance of Admit
+**Regression**
+Linear Regression
 
 **Technologies Used**
 Python (Google Colab)
